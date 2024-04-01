@@ -26,3 +26,7 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 </body>
 </html>
 ```
+Name: Sindre Magnus Haltbakk
+Lewis email address: sindremhaltbakk@lewisu.edu
+All content is original. 
+Required files: index.html

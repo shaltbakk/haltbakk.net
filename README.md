@@ -29,4 +29,7 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 Name: Sindre Magnus Haltbakk
 Lewis email address: sindremhaltbakk@lewisu.edu
 All content is original. 
-Required files: index.html
+Required files: index.html. intagrampng.png, contact.html, email-logo.png, haltbakk.net.css, lathunden.html, trackToWCAToHeading.png, trueToCompassToHeading.png.
+
+Lathunden was taught to me while studying at Flygteoriskolan Barkaby AB.
+I would like to thank my nephew Henrik, as he provided technical support for this project. 

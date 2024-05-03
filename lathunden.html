@@ -5,37 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lathunden</title>
     <link rel="stylesheet" href="haltbakk.net.css">
-</head>
-<body>
     <script>
+        console.log("")
         function reset(){
-            document.getElementById("TT").reset();
-            document.getElementById("TWCA").reset();
-            document.getElementById("TH").reset();
-            document.getElementById("TRB").reset();
-            document.getElementById("TB").reset();
-            document.getElementById("VT").reset(); 
-            document.getElementById("VWCA").reset();
-            document.getElementById("VH").reset();
-            document.getElementById("VRB").reset();
-            document.getElementById("VB").reset();
-            document.getElementById("MT").reset();
-            document.getElementById("MWCA").reset();
-            document.getElementById("MH").reset();
-            document.getElementById("MRB").reset();
-            document.getElementById("MB").reset();
-            document.getElementById("DT").reset();
-            document.getElementById("DWCA").reset();
-            document.getElementById("DH").reset();
-            document.getElementById("DRB").reset();
-            document.getElementById("DB").reset();
-            document.getElementById("CT").reset();
-            document.getElementById("CWCA").reset();
-            document.getElementById("CH").reset();
-            document.getElementById("CRB").reset();
-            document.getElementById("CB").reset();
+            document.getElementById("TT").value ="";
+            document.getElementById("TWCA").value ="";
+            document.getElementById("TH").value ="";
+            document.getElementById("TRB").value ="";
+            document.getElementById("TB").value ="";
+            document.getElementById("VT").value =""; 
+            document.getElementById("VWCA").value ="";
+            document.getElementById("VH").value ="";
+            document.getElementById("VRB").value ="";
+            document.getElementById("VB").value ="";
+            document.getElementById("MT").value ="";
+            document.getElementById("MWCA").value ="";
+            document.getElementById("MH").value ="";
+            document.getElementById("MRB").value ="";
+            document.getElementById("MB").value ="";
+            document.getElementById("DT").value ="";
+            document.getElementById("DWCA").value ="";
+            document.getElementById("DH").value ="";
+            document.getElementById("DRB").value ="";
+            document.getElementById("DB").value ="";
+            document.getElementById("CT").value ="";
+            document.getElementById("CWCA").value ="";
+            document.getElementById("CH").value ="";
+            document.getElementById("CRB").value ="";
+            document.getElementById("CB").value ="";
         }
     </script>
+</head>
+<body>
+
     <div class="grid-container">
         <label></label>
         <div class="grid-item"><label>Track</label></div>
@@ -86,11 +88,11 @@
 <h1>About Lathunden</h1>   
 <p>Lathunden is a simple and effective tool used for learning navigation. It will in a clear way allow you to for instance, start with a True Track and end with a Compass Heading.  </p> 
 <h1>How to use Lathunden</h1>
-<p>Rule #1: If moving from left to right -> add positive numbers, and subtract negative numbers. If moving right to left -> subtract positive numbers, and add negative numbers.</p>
+<p>Rule #1: If moving from left to right -> add positive numbers, and subtract negative numbers. If Moving right to left -> subtract positive numbers, and add negative numbers.</p>
 <p>Rule #2: East is positive if moving up, and negative if moving down. West is negative if moving up, and positive if moving down.</p>
 <p>1. If moving up, east = subtract and west = add. If moving down then east = subtract, and west = add. </p>  
 <p>2. If moving to the right to go from Track to Heading, add any right Wind Correction Angle to the track to get Heading, and subtract any left Wind Correction Angle.</p>
-<p>3. If moving left from Heading to Track, subtract any right Wind Correction Angle and add any left Wind Correction Angle. PS. Wind Correction Angle may also be stated as + for right, and - for left.</p>
+<p>3. If moving left from Heading to Track, subtract any right Wind Correction Angle and add any left Wind Correction Angle. PS. Wind Correction Angle may also be stated as  + for right and - for left.</p>
 <p>4. To determine a Bearing from a Heading -> add the Relative Bearing. If Bearing is greater than 360, simply subtract 360 from the sum.</p>
 <p>Two examples below are included. </p>
 <img src="trueToCompassToHeading.png" alt="Example of True to Compass To Heading" style="width: 50%;">

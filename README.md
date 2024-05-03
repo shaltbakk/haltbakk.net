@@ -33,3 +33,14 @@ Required files: index.html. intagrampng.png, contact.html, email-logo.png, haltb
 
 Lathunden was taught to me while studying at Flygteoriskolan Barkaby AB.
 I would like to thank my nephew Henrik, as he provided technical support for this project. 
+
+Class Project Proposal
+Product Name... give it a good name!...Haltbakk.net, I have decided to not translate the name Lathunden, to preserve its Scandinavian origins!
+Team Members...Sindre Haltbakk
+Application Overview (overview from a end user perspective)...a website with my contact information, and a functional digital version of Lathunden, with written instructions and 2 examples on how it can be used.
+Technology Overview (languages, libraries, platforms, hosting)...HTML, CSS, Javascript, hosted on github pages.
+Proposal Last Updated (the date the proposal was last updated)...4/14/2024
+Feature List (prioritized list of features that can likely be delivered in the time allowed)...A hosted website, with functional links to my email address, facebook and instagram profiles. Also a digital version of Lathunden with instructions and a reset button. 
+Future Feature List (non-prioritized list of end user features that would be implemented if there was more time)...Add code so Lathunden can calculate as well. 
+Basic Technical Features (list of technical features being implemented that demonstrates things you have learned in the class)...Host a website, write HTML, CSS and Jacascript code. Added pictures/logos. Write functions.
+Advanced Technical Features (list of technical features being implemented that go beyond what we learned in class)...Unknown
